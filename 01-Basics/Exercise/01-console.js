@@ -14,4 +14,4 @@ console.log(
 
 console.log(
     "Because I want to become a web developer with JS"
-)
+);
