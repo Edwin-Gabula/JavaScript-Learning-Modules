@@ -6,7 +6,7 @@ APIs, tooling, and preparation for React and React Native.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository is both a personal learning journey and a structured
 resource for anyone who wants to learn JavaScript from the ground up.
@@ -26,7 +26,7 @@ The goal is to understand:
 
 ---
 
-# 📚 Curriculum
+# Curriculum
 
 The curriculum is divided into progressive modules.
 
