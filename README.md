@@ -88,3 +88,16 @@ Module/
 ├── Exercises/
 ├── Challenges/
 └── Projects/
+
+## Author
+
+**Edwin Gabula**
+
+Bachelor of Pharmacy (BPharm) Student
+Makerere University
+
+Developer | Pharmacy Informatics Enthusiast | Python & Django Developer
+
+---
+
+*Pharmacy Management System v2.1 – Building intelligent, scalable, and efficient solutions for modern pharmacy practice.*
