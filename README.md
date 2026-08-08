@@ -72,17 +72,19 @@ The curriculum is divided into progressive modules.
 |---|---|---|
 | 21 | JavaScript Projects | ⚪ |
 
+
 ---
 ## Author
 
 **Edwin Gabula**
 
-Bachelor of Pharmacy (BPharm) 
+Bachelor of Pharmacy (BPharm), 
 Makerere University
 
-Developer | Pharmacy Informatics Enthusiast | Python & Django Developer | JavaScript Developer
+Pharmacist | Bioinformatics Enthusiast | Python & Django Developer | JavaScript Developer
 
 ---
+
 
 
 
