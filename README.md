@@ -73,31 +73,17 @@ The curriculum is divided into progressive modules.
 | 21 | JavaScript Projects | ⚪ |
 
 ---
-
-# 🗂️ Repository Structure
-
-Each module follows the same learning structure:
-
-```text
-Module/
-│
-├── README.md
-│
-├── Notes/
-├── Examples/
-├── Exercises/
-├── Challenges/
-└── Projects/
-
 ## Author
 
 **Edwin Gabula**
 
-Bachelor of Pharmacy (BPharm) Student
+Bachelor of Pharmacy (BPharm) 
 Makerere University
 
-Developer | Pharmacy Informatics Enthusiast | Python & Django Developer
+Developer | Pharmacy Informatics Enthusiast | Python & Django Developer | JavaScript
 
 ---
 
-*Pharmacy Management System v2.1 – Building intelligent, scalable, and efficient solutions for modern pharmacy practice.*
+
+
+
