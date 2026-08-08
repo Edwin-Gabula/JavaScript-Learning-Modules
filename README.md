@@ -80,7 +80,7 @@ The curriculum is divided into progressive modules.
 Bachelor of Pharmacy (BPharm) 
 Makerere University
 
-Developer | Pharmacy Informatics Enthusiast | Python & Django Developer | JavaScript
+Developer | Pharmacy Informatics Enthusiast | Python & Django Developer | JavaScript Developer
 
 ---
 
