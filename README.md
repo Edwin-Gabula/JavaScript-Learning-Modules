@@ -1,231 +1,159 @@
 # JavaScript Learning Journey 🚀
 
-A structured, hands-on journey through JavaScript — starting from
-the fundamentals and progressing toward modern JavaScript,
-APIs, tooling, and preparation for React and React Native.
+> A structured, hands-on journey from JavaScript fundamentals to modern JavaScript, APIs, tooling, and preparation for React.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-Environment-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ---
 
-## Purpose
+## 📖 About This Repository
 
-This repository is both a personal learning journey and a structured
-resource for anyone who wants to learn JavaScript from the ground up.
+This repository documents a structured journey through **JavaScript**, starting from the absolute fundamentals and progressing toward modern JavaScript development.
 
-The goal is not simply to memorize JavaScript syntax.
+It is designed to function as:
 
-The goal is to understand:
+- 📚 A personal learning journal
+- 🧠 A structured JavaScript curriculum
+- 💻 A practical coding laboratory
+- 🧪 An exercise and challenge collection
+- 🛠️ A project portfolio
+- 🤝 A resource that other beginners can follow
 
-- How JavaScript works
-- How to think in JavaScript
-- How to solve problems with JavaScript
-- How to build interactive applications
-- How JavaScript communicates with APIs
-- How modern JavaScript applications are structured
-- How the JavaScript ecosystem works
-- How to prepare for React and React Native
+The objective is not simply to memorize JavaScript syntax.
+
+The objective is to **understand JavaScript well enough to build with it.**
 
 ---
 
-# Curriculum
+## 🎯 Learning Goals
 
-The curriculum is divided into progressive modules.
+By the end of this journey, I aim to be able to:
 
-## Phase 1 — Foundations
+- Understand JavaScript fundamentals
+- Think and solve problems using JavaScript
+- Write clean and readable JavaScript
+- Debug JavaScript applications
+- Manipulate data using arrays and objects
+- Build interactive browser applications
+- Understand asynchronous JavaScript
+- Work with REST APIs
+- Work with JSON
+- Understand JavaScript modules
+- Use npm and modern JavaScript tooling
+- Build practical JavaScript applications
+- Develop a strong foundation for React
+- Eventually progress toward React Native
+
+---
+
+# 🗺️ Curriculum
+
+The curriculum is divided into progressive phases.
+
+---
+
+## Phase 0 — Environment & Setup
 
 | Module | Topic | Status |
 |---|---|---|
-| 00 | Setup | 🟢 |
-| 01 | JavaScript Basics | 🟡 |
-| 02 | Variables | ⚪ |
-| 03 | Data Types | ⚪ |
-| 04 | Operators | ⚪ |
-| 05 | Strings | ⚪ |
-| 06 | Control Flow | ⚪ |
-| 07 | Loops | ⚪ |
-| 08 | Arrays | ⚪ |
-| 09 | Objects | ⚪ |
-| 10 | Dates and Math | ⚪ |
+| `00` | Setup | 🟢 Complete |
+
+Topics include:
+
+- Node.js
+- npm
+- Visual Studio Code
+- Terminal
+- Git
+- GitHub
+- JavaScript project structure
+
+---
+
+## Phase 1 — JavaScript Foundations
+
+| Module | Topic | Status |
+|---|---|---|
+| `01` | JavaScript Basics | 🟡 In Progress |
+| `02` | Variables | ⚪ Not Started |
+| `03` | Data Types | ⚪ Not Started |
+| `04` | Operators | ⚪ Not Started |
+| `05` | Strings | ⚪ Not Started |
+| `06` | Control Flow | ⚪ Not Started |
+| `07` | Loops | ⚪ Not Started |
+| `08` | Arrays | ⚪ Not Started |
+| `09` | Objects | ⚪ Not Started |
+| `10` | Dates and Math | ⚪ Not Started |
+
+---
 
 ## Phase 2 — Browser JavaScript
 
 | Module | Topic | Status |
 |---|---|---|
-| 11 | DOM | ⚪ |
-| 12 | Error Handling | ⚪ |
-| 13 | ES6+ Features | ⚪ |
-| 14 | Events | ⚪ |
-| 15 | Forms | ⚪ |
+| `11` | DOM | ⚪ Not Started |
+| `12` | Error Handling | ⚪ Not Started |
+| `13` | ES6+ Features | ⚪ Not Started |
+| `14` | Events | ⚪ Not Started |
+| `15` | Forms | ⚪ Not Started |
+
+---
 
 ## Phase 3 — Modern JavaScript
 
 | Module | Topic | Status |
 |---|---|---|
-| 16 | Asynchronous JavaScript | ⚪ |
-| 17 | Fetch and APIs | ⚪ |
-| 18 | Modules | ⚪ |
-| 19 | Browser Storage | ⚪ |
-| 20 | npm and Tooling | ⚪ |
+| `16` | Asynchronous JavaScript | ⚪ Not Started |
+| `17` | Fetch and APIs | ⚪ Not Started |
+| `18` | Modules | ⚪ Not Started |
+| `19` | Browser Storage | ⚪ Not Started |
+| `20` | npm and Tooling | ⚪ Not Started |
+
+---
 
 ## Phase 4 — Projects
 
 | Module | Topic | Status |
 |---|---|---|
-| 21 | JavaScript Projects | ⚪ |
-
-
-Each part has a specific purpose.
-
-README.md
-
-Explains the module, its objectives, topics, and completion criteria.
-
-Notes/
-
-Theory and explanations of the concepts being studied.
-
-Examples/
-
-Small practical programs demonstrating individual concepts.
-
-Exercises/
-
-Guided programming exercises.
-
-Challenges/
-
-Problems that require independent thinking and problem solving.
-
-Projects/
-
-Small applications combining concepts learned in the module.
-
-🧠 Learning Method
-
-The learning process follows:
-
-Learn
-  ↓
-Understand
-  ↓
-Write
-  ↓
-Run
-  ↓
-Debug
-  ↓
-Practice
-  ↓
-Challenge
-  ↓
-Build
-  ↓
-Review
-  ↓
-Commit
-
-The emphasis is on writing code, not simply reading about it.
-
-🛠️ Technologies
-
-The journey currently uses:
-
-JavaScript
-Node.js
-npm
-Visual Studio Code
-Git
-GitHub
-
-Later stages introduce:
-
-Browser APIs
-JSON
-REST APIs
-Vite
-React
-React Native
-🚀 Running JavaScript
-
-After cloning the repository:
-
-git clone https://github.com/Edwin-Gabula/JavaScript-Learning-Modules.git
-
-Enter the project:
-
-cd JavaScript-Learning-Modules
-
-JavaScript files can be executed with Node.js:
-
-node path/to/file.js
-
-For example:
-
-node 01-Basics/Examples/01-console.js
-📈 Progress Tracking
-
-A module is considered complete when the following have been completed:
-
- Notes
- Practical examples
- Exercises
- Challenges
- Mini project
- Review
- Git commit
-🎓 Final Goal
-
-The journey is designed to lead toward modern frontend development:
-
-JavaScript Fundamentals
-        ↓
-Modern JavaScript
-        ↓
-DOM & Browser APIs
-        ↓
-Async JavaScript
-        ↓
-Fetch & APIs
-        ↓
-Modules & npm
-        ↓
-JavaScript Projects
-        ↓
-React Preparation
-        ↓
-React
-        ↓
-React Native
-
-React is intentionally not introduced before developing a solid
-JavaScript foundation.
-
-🤝 For Other Learners
-
-If you are using this repository to learn JavaScript:
-
-Start with 00-Setup
-Follow the modules in order
-Read the notes
-Run the examples
-Complete the exercises
-Attempt the challenges independently
-Complete the projects
-Move to the next module
-
-
----
-## Author
-
-**Edwin Gabula**
-
-Bachelor of Pharmacy (BPharm), 
-Makerere University
-
-Pharmacist | Bioinformatics Enthusiast | Python & Django Developer | JavaScript Developer
+| `21` | JavaScript Projects | ⚪ Not Started |
 
 ---
 
+## Phase 5 — React Preparation
 
+| Module | Topic | Status |
+|---|---|---|
+| `22` | React Preparation | ⚪ Not Started |
 
+> React will only be introduced after establishing a strong JavaScript foundation.
 
+---
 
+# 📂 Repository Structure
+
+Every learning module follows the same structure:
+
+```text
+Module/
+│
+├── README.md
+│
+├── Notes/
+│   └── notes.md
+│
+├── Examples/
+│   └── example.js
+│
+├── Exercises/
+│   └── exercise.js
+│
+├── Challenges/
+│   └── challenge.js
+│
+└── Projects/
+    └── project.js
