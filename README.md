@@ -166,73 +166,15 @@ Contains small practical applications combining concepts learned throughout the 
 
 ---
 
-# 🧠 Learning Method
 
-The learning process follows a deliberate progression:
+---
+## Author
 
-```text
-              ┌─────────────┐
-              │    LEARN    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │  UNDERSTAND │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    WRITE    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │     RUN     │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    DEBUG    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │   PRACTICE  │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │  CHALLENGE  │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    BUILD    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │   REVIEW    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    COMMIT   │
-              └─────────────┘
+**Edwin Gabula**
 
-# 📂 Repository Structure
+Bachelor of Pharmacy (BPharm), 
+Makerere University
 
-Every learning module follows the same structure:
+Pharmacist | Bioinformatics Enthusiast | Python & Django Developer | JavaScript Developer
 
-```text
-Module/
-│
-├── README.md
-│
-├── Notes/
-│   └── notes.md
-│
-├── Examples/
-│   └── example.js
-│
-├── Exercises/
-│   └── exercise.js
-│
-├── Challenges/
-│   └── challenge.js
-│
-└── Projects/
-    └── project.js
-
-
+---
