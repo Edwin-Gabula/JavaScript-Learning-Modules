@@ -134,6 +134,83 @@ Topics include:
 
 ---
 
+### 📘 `README.md`
+
+Defines:
+
+- What the module covers
+- Learning objectives
+- Topics
+- Prerequisites
+- Completion criteria
+
+### 📝 `Notes/`
+
+Contains explanations, concepts, syntax, examples, and important observations.
+
+### 💻 `Examples/`
+
+Contains small programs demonstrating individual concepts.
+
+### 🧪 `Exercises/`
+
+Contains guided exercises designed to reinforce the concepts learned.
+
+### 🧩 `Challenges/`
+
+Contains problems that require independent thinking and problem solving.
+
+### 🚀 `Projects/`
+
+Contains small practical applications combining concepts learned throughout the module.
+
+---
+
+# 🧠 Learning Method
+
+The learning process follows a deliberate progression:
+
+```text
+              ┌─────────────┐
+              │    LEARN    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │  UNDERSTAND │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │    WRITE    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │     RUN     │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │    DEBUG    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │   PRACTICE  │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │  CHALLENGE  │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │    BUILD    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │   REVIEW    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │    COMMIT   │
+              └─────────────┘
+
 # 📂 Repository Structure
 
 Every learning module follows the same structure:
@@ -157,3 +234,5 @@ Module/
 │
 └── Projects/
     └── project.js
+
+
