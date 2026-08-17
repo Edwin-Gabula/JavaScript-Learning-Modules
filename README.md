@@ -80,9 +80,9 @@ Topics include:
 | Module | Topic | Status |
 |---|---|---|
 | `01` | JavaScript Basics | 🟡 In Progress |
-| `02` | Variables | ⚪ Not Started |
-| `03` | Data Types | ⚪ Not Started |
-| `04` | Operators | ⚪ Not Started |
+| `02` | Variables | 🟡 Not Started |
+| `03` | Data Types | 🟡 Not Started |
+| `04` | Operators | 🟡 Not Started |
 | `05` | Strings | ⚪ Not Started |
 | `06` | Control Flow | ⚪ Not Started |
 | `07` | Loops | ⚪ Not Started |
