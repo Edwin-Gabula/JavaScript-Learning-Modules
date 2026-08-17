@@ -79,10 +79,10 @@ Topics include:
 
 | Module | Topic | Status |
 |---|---|---|
-| `01` | JavaScript Basics | 🟡 In Progress |
-| `02` | Variables | 🟡 Not Started |
-| `03` | Data Types | 🟡 Not Started |
-| `04` | Operators | 🟡 Not Started |
+| `01` | JavaScript Basics | 🟢 Completed |
+| `02` | Variables | 🟢 Completed |
+| `03` | Data Types | 🟢 Completed |
+| `04` | Operators | 🟢 Completed |
 | `05` | Strings | ⚪ Not Started |
 | `06` | Control Flow | ⚪ Not Started |
 | `07` | Loops | ⚪ Not Started |
