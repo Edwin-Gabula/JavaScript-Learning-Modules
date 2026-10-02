@@ -10,3 +10,4 @@ const status = stock < reorderLevel
     : "Stock sufficient";
 
 console.log("Status:", status);
+
