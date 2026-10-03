@@ -51,7 +51,7 @@ By the end of this journey, I aim to be able to:
 
 ---
 
-# 🗺️ Curriculum
+## Curriculum
 
 The curriculum is divided into progressive phases.
 
