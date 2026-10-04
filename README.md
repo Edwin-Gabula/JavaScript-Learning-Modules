@@ -17,12 +17,12 @@ This repository documents a structured journey through **JavaScript**, starting 
 
 It is designed to function as:
 
-- 📚 A personal learning journal
-- 🧠 A structured JavaScript curriculum
-- 💻 A practical coding laboratory
-- 🧪 An exercise and challenge collection
-- 🛠️ A project portfolio
-- 🤝 A resource that other beginners can follow
+- A personal learning journal
+- A structured JavaScript curriculum
+- A practical coding laboratory
+- An exercise and challenge collection
+- A project portfolio
+- A resource that other beginners can follow
 
 The objective is not simply to memorize JavaScript syntax.
 
@@ -51,7 +51,7 @@ By the end of this journey, I aim to be able to:
 
 ---
 
-# 🗺️ Curriculum
+## Curriculum
 
 The curriculum is divided into progressive phases.
 
