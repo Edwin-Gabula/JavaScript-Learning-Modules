@@ -20,6 +20,8 @@ console.log(
     "Value of 100 tablets: ", unitPrice * 100
 );
 
+
+
 //print stock value of 500 tablets
 
 console.log(

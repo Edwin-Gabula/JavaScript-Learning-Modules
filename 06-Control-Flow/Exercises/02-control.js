@@ -1,25 +1,50 @@
-// program to stock status in the pharmacy
+const readline = require("node:readline/promises");
 
-let stock = 35;
+const { stdin, stdout } = require("node:process");
 
-stock = 10
+const rl = readline.createInterface(
+    {
+        input: stdin,
+        output: stdout
+    }
+)
 
-stock = 200
+let medicine = prompt(
+    "Enter the name of the medicine:"
+);
 
-if (stock === 0) {
+let stock = Number(prompt(
+    "Enter available stock: "
+));
+
+let quantityRequested = Number(prompt(
+    "Enter quantity requested: "
+));
+
+let customerAmount = Number(prompt(
+    "Enter the amount customer has: "
+));
+
+let unitPrice = Number(prompt(
+    "Enter the unit price of the medicine: "
+));
+
+
+let totalCost = unitPrice * quantityRequested;
+
+if (quantityRequested > stock) {
     console.log(
-        "Out of stock"
+        "Insufficient stock, available is: " + stock
     )
-} else if (stock < 10) {
+} else if (totalCost > customerAmount) {
     console.log(
-        "Stock is low"
-    )
-} else if (stock <50) {
-    console.log(
-        "Stock is okay"
+        "Customer has insuffiecient balance"
     )
 } else {
+
+    let change = customerAmount - totalCost
+
     console.log(
-        "Well stocked!"
+        "Sale accepted, medicine: " + medicine + ", quantity: " + quantityRequested + ", total price: " + totalCost + ", change is " + change
     )
-};
+}
