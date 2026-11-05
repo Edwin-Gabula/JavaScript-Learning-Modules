@@ -10,10 +10,44 @@ const rl = readline.createInterface(
     }
 )
 
-let medicine = await rl.question(
-    "Enter the medicine name: "
-);
+async function main() {
 
-let stock = Number(await rl.question(
-    "Enter stock available: "
-));
+    let medicine = await rl.question("Enter the name of the medicine: ");
+
+    let stock = Number(await rl.question("Enter available stock: "));
+
+    let quantityRequested = Number(await rl.question("Enter quantity requested: "));
+
+    let customerAmount = Number(await rl.question("Enter the amount customer has: "));
+
+    let unitPrice = Number(await rl.question("Enter the unit price of the medicine: "));
+
+    let totalCost = unitPrice * quantityRequested;
+
+    if (quantityRequested > stock) {
+        console.log(
+            "Insufficient stock available!"
+        )
+    } else if (totalCost > customerAmount) {
+        console.log(
+            "Customer has insufficient balance!"
+        )
+    } else {
+
+        let change = customerAmount - totalCost;
+
+        console.log(
+            "Sale is accepted, medicine: " + medicine + 
+            ", quantity: " + quantityRequested + 
+            ", total price: " + totalCost + 
+            ", change is " + change
+        )
+    }
+
+    rl.close();
+
+
+}
+
+main();
+      
